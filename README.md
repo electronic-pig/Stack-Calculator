@@ -1,4 +1,4 @@
-# project-1
+# Algorithm course project
 :book:数据结构作业
 
 :rocket:用栈实现算数表达式求值
