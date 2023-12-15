@@ -8,3 +8,12 @@
 :warning:项目使用的IDE为VS2022，且需要将项目属性的字符集改成多字节字符集才能正常编译，具体操作：`项目`->`属性`->`高级`->`字符集`->`使用多字节字符集`
 
 :warning:项目使用了easyx图形库，需要编译器安装了easyx图形库文件才能正常编译
+
+> 项目主页面
+
+![image](https://github.com/electronic-pig/Stack-Calculator/assets/103497254/ac713e44-d6e3-4e92-aab1-73129973a106)
+
+> 计算器页面
+
+![image](https://github.com/electronic-pig/Stack-Calculator/assets/103497254/a04b5a30-bd90-42c3-887f-cfbbe7fb9a5a)
+
